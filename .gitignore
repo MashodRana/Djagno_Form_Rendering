@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+__pycache__/
+rendering_django_form/__pycache__/
+understanding_rendering_process/__pycache__/
+understanding_rendering_process/migrations/__pycache__/
